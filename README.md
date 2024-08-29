@@ -1,6 +1,3 @@
-</head>
-<body>
-    <div class="container">
         <h1>Hi there, I'm Simran Suri! 👋</h1>
         <p>Welcome to my GitHub profile! I’m a passionate Data Science student from UPES, where I’m diving deep into the fascinating world of data, analytics, and machine learning. 🚀</p>
 
@@ -40,6 +37,5 @@
         <p>I'm always open to new opportunities, collaborations, and discussions. If you're interested in data science, technology, or just want to chat, feel free to connect with me!</p>
 
         <p>Thanks for stopping by my GitHub profile. Happy coding! 😄</p>
-    </div>
 </body>
 </html>
